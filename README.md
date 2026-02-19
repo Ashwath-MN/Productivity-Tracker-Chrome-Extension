@@ -45,7 +45,8 @@ Overall, the Productivity Tracker Chrome Extension helps users become more aware
 
 ## outputs 
 # output-1: Productivity Tracker initial screen before browsing activity.
-
+<img width="476" height="668" alt="Image" src="https://github.com/user-attachments/assets/084db661-88c4-447c-89ee-abf4e0539347" />
 
 # output-2:Productivity Tracker showing tracked website usage and time.
 
+<img width="482" height="735" alt="Image" src="https://github.com/user-attachments/assets/f7d5157a-d5a4-4762-aa7a-0f603203b6d4" />
